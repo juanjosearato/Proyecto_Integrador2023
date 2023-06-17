@@ -1,6 +1,6 @@
 # Proyecto_Integrador2023
 
-Intengrantes:
+(Intengrantes)
 Leonardo Agustin Velarrubi
 Javier Ignacio Aliendro
 Juan José Arato
